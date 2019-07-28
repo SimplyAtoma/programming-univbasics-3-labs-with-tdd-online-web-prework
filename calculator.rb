@@ -2,4 +2,6 @@
 Integer first_number = 12
 Float second_number = 2.1
 Float sum = first_number + second_number
-Float diffrence 
+Float difference = first_number - second_number
+Float product = first_number * second_number
+Float
