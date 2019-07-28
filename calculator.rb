@@ -1,3 +1,3 @@
 # Add your variables here
-first_number = 12
-second_number 2.1
+defined first_number = 12
+defined second_number 2.1
